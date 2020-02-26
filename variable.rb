@@ -1,2 +1,2 @@
-va # Define a local variable called 'greeting',
+# Define a local variable called 'greeting',
 greeting = "Hello World" 
